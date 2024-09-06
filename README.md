@@ -1,6 +1,11 @@
 
 
+____
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GonzaloAvilez&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GonzaloAvilez&theme=github)
+___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloAvilez&hide_progress=true)
+
 
 
 <!--
